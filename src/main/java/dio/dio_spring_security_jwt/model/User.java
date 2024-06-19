@@ -1,7 +1,8 @@
 package dio.dio_spring_security_jwt.model;
 
-import jakarta.persistence.*;
 
+
+import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
